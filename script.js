@@ -3,7 +3,7 @@
 // ==========================================
 
 // Buat elemen tombol interaktif untuk menyalin email secara cepat
-const tombolKontak = document.querySelector("#https://wa.me/+6289652851249 .btn-primary");
+const tombolKontak = document.querySelector("#https://wa.me/+6289652851249 btn-primary");
 
 if (tombolKontak) {
     tombolKontak.addEventListener("click", function() {
